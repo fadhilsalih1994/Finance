@@ -64,7 +64,7 @@ def expected_return(weights, log_returns):
 
 def standard_deviation(weights, cov_matrix):
     # Transposing the weights so that it can be multiplied accurately with the covariance matrix
-    variance = weights.T @ cov_matrix @ weights  # ?
+    variance = weights.T @ cov_matrix @ weights 
     return np.sqrt(variance)
 
 
