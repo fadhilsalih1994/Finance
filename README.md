@@ -1,4 +1,4 @@
-# Calculate VaR using Mnte Carlo simulation
+# Calculate VaR using Monte Carlo simulation
 
 Objective: To calculate the VaR using Monte Carlo simulation for tickers provided by the user
 
